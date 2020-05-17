@@ -4,71 +4,40 @@
   <div class="bg-white mt-24">
 
     <div class="text-center">
-      <h2 class="font-bold text-5xl ">Q&A</h2>
+      <h2 class="font-bold text-5xl">Q&A</h2>
     </div>
 
-    <div class="mt-6 border-t-2 border-gray-100 pt-10">
-      <dl class="md:grid md:grid-cols-2 md:gap-8">
+    <div class="border-t-2 border-gray-100 pt-10 max-w-screen-sm mx-auto">
+      <dl class="">
         <div>
           <div>
             <dt class="text-lg leading-6 font-medium text-gray-900">
-              What's the best thing about Switzerland?
+              What is the time commitment for a design challenge?
             </dt>
             <dd class="mt-2">
               <p class="text-base leading-6 text-gray-500">
-                I don't know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.
+                Ultimately this is up to you, participation for Saturday and Sunday morning is mandatory, you and your group will decide how long and how often you want to work for Monday through Friday before you present to industry professionals on Saturday the 30th. You will want to be able to talk about what you did during the pandemic and this is a meaningful project. 
+
               </p>
             </dd>
           </div>
           <div class="mt-12">
             <dt class="text-lg leading-6 font-medium text-gray-900">
-              How do you make holy water?
+              Where do I put who I want to work with?
             </dt>
             <dd class="mt-2">
               <p class="text-base leading-6 text-gray-500">
-                You boil the hell out of it. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.
+                Intradisciplinary teams will be formed by the hackathon club and announced Friday night.
               </p>
             </dd>
           </div>
           <div class="mt-12">
             <dt class="text-lg leading-6 font-medium text-gray-900">
-              What do you call someone with no body and no nose?
+              I am in a different timezone, can I still participate?
             </dt>
             <dd class="mt-2">
               <p class="text-base leading-6 text-gray-500">
-                Nobody knows. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.
-              </p>
-            </dd>
-          </div>
-        </div>
-        <div class="mt-12 md:mt-0">
-          <div>
-            <dt class="text-lg leading-6 font-medium text-gray-900">
-              Why do you never see elephants hiding in trees?
-            </dt>
-            <dd class="mt-2">
-              <p class="text-base leading-6 text-gray-500">
-                Because they're so good at it. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.
-              </p>
-            </dd>
-          </div>
-          <div class="mt-12">
-            <dt class="text-lg leading-6 font-medium text-gray-900">
-              Why can't you hear a pterodactyl go to the bathroom?
-            </dt>
-            <dd class="mt-2">
-              <p class="text-base leading-6 text-gray-500">
-                Because the pee is silent. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.
-              </p>
-            </dd>
-          </div>
-          <div class="mt-12">
-            <dt class="text-lg leading-6 font-medium text-gray-900">
-              Why did the invisible man turn down the job offer?
-            </dt>
-            <dd class="mt-2">
-              <p class="text-base leading-6 text-gray-500">
-                He couldn't see himself doing it. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.
+                The schedule was set based on when the industry professionals were available. Your team might all be in PDT time, we have added a timezone question to the registration form and will do our best to try to find similar teammates but no guarantees there.
               </p>
             </dd>
           </div>
