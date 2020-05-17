@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="214" height="31" viewBox="0 0 214 31">
+  <g id="Group_190" data-name="Group 190" transform="translate(-90 -390.5)">
+    <g id="Group_189" data-name="Group 189">
+      <g id="Group_188" data-name="Group 188" transform="translate(1)">
+        <g id="Group_187" data-name="Group 187" transform="translate(71 383)">
+          <text id="ArtCenter" transform="translate(52 29)" font-size="18" font-family="NHaasGroteskDSPro-65Md, Neue Haas Grotesk Display Pro" font-weight="500"><tspan x="0" y="0">ArtCenter</tspan></text>
+          <circle id="Ellipse_11" data-name="Ellipse 11" cx="15" cy="15" r="15" transform="translate(18 8)" fill="#fc4601"/>
+        </g>
+        <text id="Hackathon" transform="translate(214 412)" fill="#fc4601" font-size="18" font-family="NHaasGroteskDSPro-75Bd, Neue Haas Grotesk Display Pro" letter-spacing="0.001em"><tspan x="0" y="0">Hackathon</tspan></text>
+        <line id="Line_1" data-name="Line 1" y2="31" transform="translate(207.5 390.5)" fill="none" stroke="#000" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

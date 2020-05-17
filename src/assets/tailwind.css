@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+ @font-face {
+    font-family: 'NeueHaasGroteskText Pro';
+    src: url('/fonts/NHaasGroteskTXPro-75Bd.woff2') format('woff2'),
+        url('/fonts/NHaasGroteskTXPro-75Bd.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'NeueHaasGroteskText Pro';
+    src: url('/fonts/NHaasGroteskTXPro-55Rg.woff2') format('woff2'),
+        url('/fonts/NHaasGroteskTXPro-55Rg.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'NeueHaasGroteskDisp Pro Blk';
+    src: url('/fonts/NHaasGroteskDSPro-95Blk.woff2') format('woff2'),
+        url('/fonts/HaasGroteskDSPro-95Blk.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+* {	
+	font-family: 'NeueHaasGroteskText Pro', sans-serif;
+}
+
+.font-black {
+	font-family: 'NeueHaasGroteskDisp Pro Blk', sans-serif;
+}
