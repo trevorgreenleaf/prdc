@@ -4,7 +4,6 @@
     <HeroSection/>
     <Speakers/> 
     <Timeline/>
-    <Events/> 
     <FAQ/>  
     <FooterSection/>  
    
@@ -16,7 +15,6 @@
   import Speakers from './components/Speakers.vue'
   import MainNav from './components/MainNav.vue'
   import HeroSection from './components/HeroSection.vue'
-  import Events from './components/Events.vue'
   import FAQ from './components/FAQ.vue'
   import Timeline from './components/Timeline.vue'
   
@@ -28,7 +26,6 @@ export default {
     MainNav,
     HeroSection,
     FooterSection,
-    Events,
     Speakers,
     FAQ,
     Timeline
