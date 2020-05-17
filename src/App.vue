@@ -1,6 +1,6 @@
 <template>
   <div id="app" class="bg-gray-200 " >
-    <div class="container mx-auto">
+    <div class="container mx-auto ">
 
       <MainNav/>
       <HeroSection/>

@@ -1,5 +1,5 @@
 <template>
-  <div id="schedule" class="mt-24 flex flex-col  bg-no-repeat justify-center justify-center max-w-screen-md mx-auto " style="background-position: right -60px; background-size: 45% auto; background-image: url(/images/bg-5.svg)" >
+  <div id="schedule" class="mt-24 flex flex-col px-4 bg-no-repeat justify-center justify-center max-w-screen-md mx-auto " style="background-position: right -60px; background-size: 45% auto; background-image: url(/images/bg-5.svg)" >
   
   <div class="text-center">
     <h2 class="font-bold text-5xl ">Schedule</h2>
