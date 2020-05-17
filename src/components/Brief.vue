@@ -2,7 +2,7 @@
   <div>
 
 
-<div class="max-w-screen-md mx-auto">
+<div class="max-w-screen-md bg-no-repeat mx-auto" >
 
   <div class="mt-8">
     <h2 class="font-bold text-5xl ">Brief</h2>
