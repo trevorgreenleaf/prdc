@@ -1,7 +1,7 @@
 <template>
-  <div>
+  <div class="mt-8">
 
-  <div class="max-w-screen-md mx-auto py-12 px-4 sm:px-6 md:flex md:items-center md:justify-between lg:px-8">
+  <div class="max-w-screen-md mx-auto py-12 md:flex md:items-center md:justify-between ">
     <div class="flex justify-center md:order-2">
 
       <a target="_blank" href="https://www.instagram.com/accd.hackathons/" class="ml-6 text-gray-400 hover:text-gray-500">

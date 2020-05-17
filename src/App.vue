@@ -1,12 +1,16 @@
 <template>
-  <div id="app" class="container mx-auto">
-    <MainNav/>
-    <HeroSection/>
-    <Brief/>
-    <Speakers/> 
-    <Timeline/>
-    <FAQ/>  
-    <FooterSection/>  
+  <div id="app" class="bg-gray-200 " style="background-position: left top; background-size: 100% auto; background-image: url(/images/bg-6.svg)" >
+    <div class="container mx-auto">
+
+      <MainNav/>
+      <HeroSection/>
+      <Brief/>
+      <Speakers/> 
+      <Timeline/>
+      <FAQ/>  
+      <FooterSection/> 
+
+     </div>
    
   </div>
 </template>
