@@ -1,5 +1,5 @@
 <template>
-  <div id="app" class="bg-gray-200 " style="background-position: left top; background-size: 100% auto; background-image: url(/images/bg-6.svg)" >
+  <div id="app" class="bg-gray-200 " >
     <div class="container mx-auto">
 
       <MainNav/>
