@@ -1,7 +1,7 @@
 <template>
   <div>
   
-  <div class="bg-white mt-24">
+  <div class="bg-white mt-24" id="qa">
 
     <div class="text-center">
       <h2 class="font-bold text-5xl">Q&A</h2>

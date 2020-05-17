@@ -1,5 +1,5 @@
 <template>
-  <div class="mt-24 flex flex-col bg-no-repeat items-center mb-12 justify-center text-center" style="background-position: left 0%; background-size: 85% auto; background-image: url(/images/bg-2.svg)">
+  <div id="speakers" class="mt-24 flex flex-col bg-no-repeat items-center mb-12 justify-center text-center" style="background-position: left 0%; background-size: 85% auto; background-image: url(/images/bg-2.svg)">
 
 	
 	<!-- <p class="text-orange"></h2> -->
