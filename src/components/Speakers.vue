@@ -3,7 +3,8 @@
 
 	
 	<!-- <p class="text-orange"></h2> -->
-	<h2 class="font-bold text-5xl text-center mb-8">Speakers</h2>
+	<h2 class="font-bold text-5xl text-center">Speakers</h2>
+	<p class="mb-8 text-orange">Featuring Top Industry Professionals</p>
 	
 	<div class="flex flex-wrap max-w-screen-md mx-auto">
 		<div class="w-1/3 flex flex-col items-center mb-12 ">

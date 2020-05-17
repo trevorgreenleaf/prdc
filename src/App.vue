@@ -2,6 +2,7 @@
   <div id="app" class="container mx-auto">
     <MainNav/>
     <HeroSection/>
+    <Brief/>
     <Speakers/> 
     <Timeline/>
     <FAQ/>  
@@ -17,6 +18,7 @@
   import HeroSection from './components/HeroSection.vue'
   import FAQ from './components/FAQ.vue'
   import Timeline from './components/Timeline.vue'
+    import Brief from './components/Brief.vue'
   
   import FooterSection from './components/FooterSection.vue'
 
@@ -27,6 +29,7 @@ export default {
     HeroSection,
     FooterSection,
     Speakers,
+    Brief,
     FAQ,
     Timeline
   }
