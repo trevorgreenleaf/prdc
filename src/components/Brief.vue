@@ -9,7 +9,7 @@
 
     <div class="mt-8 text-center">
       <h2 class="font-bold text-4xl sm:text-5xl md:text-6xl l ">Check out the Brief</h2>
-      <p class="mb-8 text-orange">All times on PDT.</p>
+      <!-- <p class="mb-8 text-orange">All times on PDT.</p> -->
     </div>
 
     <p class="mb-4 text-lg">During May 23-30, 2020 of the summer term, the "Hack"athon Club is organizing a <strong>1-week remote design challenge</strong> in collaboration with <a target="_blank" href="http://designmattersatartcenter.org/">Designmatters</a> and <a href="http://www.artcenter.edu/academics/interdisciplinary-programs/professional-education.html" target="_blank">Entrepreneurship and Professional Practice</a>. </p>

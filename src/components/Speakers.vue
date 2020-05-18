@@ -97,14 +97,14 @@
 		</div>
 
 
-		<div class="w-1/2 md:w-1/3  flex flex-col items-center mb-12 ">
+		<!-- <div class="w-1/2 md:w-1/3  flex flex-col items-center mb-12 ">
 			<a target="_blank" class="text-center flex flex-col items-center" href="https://www.linkedin.com/in/stephanie-yanchinski-8154081/">
 				<div class="rounded-full border-4 border-black w-40 h-40 md:w-48 md:h-48 overflow-hidden">
 					<img src="/images/speakers/s_yanchinski.jfif" alt="Stephanie Yanchinski">
 				</div>
 				<p class="font-bold text-xl">Stephanie Yanchinski<span class=" text-sm block font-normal text-gray-500">Director of Entrepreneurship, Resnick Sustainability Institute at Caltech</span></p>
 			</a>
-		</div>
+		</div> -->
 
 		<div class="w-1/2 md:w-1/3  flex flex-col items-center mb-12 ">
 			<a target="_blank" class="text-center flex flex-col items-center" href="https://www.linkedin.com/in/taraxknight/">
