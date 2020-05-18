@@ -11,8 +11,8 @@
         </p>
         <div class="mt-5 max-w-md mx-auto sm:flex sm:justify-center ">
           <div>
-            <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSd6wwjmy4_TjjTXBVSgTOioUiVFoQHVqpY6nfR2rU-dd8a2Yg/viewform" class="w-full flex items-center justify-center px-8 py-3 text-base leading-6 font-bold rounded-full text-white bg-orange hover:bg-orange  md:py-4 md:text-lg md:px-10">
-              Sign up
+            <a href="#brief" v-scroll-to="'#brief'" class="w-full flex items-center justify-center px-8 py-3 text-base leading-6 font-bold rounded-full text-white bg-orange hover:bg-orange  md:py-4 md:text-lg md:px-10">
+              Learn More
             </a>
           </div>
         </div>
