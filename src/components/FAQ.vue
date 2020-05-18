@@ -4,7 +4,7 @@
   <div class="mt-24" id="qa" style="background-position: left 0%; background-size: 125% auto; background-image: url(/images/bg-6.svg)">
 
     <div class="text-center">
-      <h2 class="font-bold text-5xl">Q&A</h2>
+      <h2 class="font-bold text-5xl">FAQ</h2>
     </div>
 
     <div class="pt-10 max-w-screen-md mx-auto">
@@ -27,7 +27,7 @@
             </dt>
             <dd class="mt-2">
               <p class="text-base leading-6 text-black">
-                Intradisciplinary teams will be formed by the hackathon club and announced Friday night.
+                Intradisciplinary teams will be formed by the "Hack"athon club and announced Friday night.
               </p>
             </dd>
           </div>

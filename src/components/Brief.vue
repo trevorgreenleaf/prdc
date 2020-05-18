@@ -12,7 +12,7 @@
       <p class="mb-8 text-orange">All times on PDT.</p>
     </div>
 
-    <p class="mb-4 text-lg">During May 23-30, 2020 of the summer term, the Hackathon Club is organizing a <strong>1-week remote design challenge</strong> in collaboration with <a target="_blank" href="http://designmattersatartcenter.org/">Designmatters</a> and <a href="http://www.artcenter.edu/academics/interdisciplinary-programs/professional-education.html" target="_blank">Entrepreneurship and Professional Practice</a>. </p>
+    <p class="mb-4 text-lg">During May 23-30, 2020 of the summer term, the "Hack"athon Club is organizing a <strong>1-week remote design challenge</strong> in collaboration with <a target="_blank" href="http://designmattersatartcenter.org/">Designmatters</a> and <a href="http://www.artcenter.edu/academics/interdisciplinary-programs/professional-education.html" target="_blank">Entrepreneurship and Professional Practice</a>. </p>
      
     <p class="mb-4 text-lg">A critical component of this design challenge is the research phase and the support provided by experts. We will be bringing in experts for question-answer sessions where they will share their knowledge and experiences on the specified topics. The one-week design challenge will give you the opportunity to work differently and experiment with different roles. We encourage you to take risks that you normally would not in class or at work. 
      <img  class="float-left w-full md:w-2/3 m-1 " src="/images/bg-4.svg" alt=""></p>

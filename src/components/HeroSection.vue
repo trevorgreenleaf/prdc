@@ -7,7 +7,7 @@
           Pandemic Response <br> <span class="text-black">Design Challenge</span>
         </h1>
         <p class="mt-3 max-w-md mx-auto text-base text-gray-500 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
-          We hope everyone had a safe and relaxing break. If you are ready to take on the challenge, ArtCenter’s Hackathon Club has put together a design challenge to address current and future disruptions. 
+          We hope everyone had a safe and relaxing break. If you are ready to take on the challenge, ArtCenter’s "Hack"athon Club has put together a design challenge to address current and future disruptions. 
         </p>
         <div class="mt-5 max-w-md mx-auto sm:flex sm:justify-center ">
           <div>
