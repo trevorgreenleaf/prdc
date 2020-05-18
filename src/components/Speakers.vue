@@ -17,7 +17,7 @@
 		</div>
 
 		<div class="w-1/2 md:w-1/3  flex flex-col items-center mb-12 ">
-			<a target="_blank" class="text-center flex flex-col items-center" href="somelink">
+			<a target="_blank" class="text-center flex flex-col items-center" href="https://www.linkedin.com/in/chase-airmet/">
 				<div class="rounded-full border-4 border-black w-40 h-40 md:w-48 md:h-48 overflow-hidden">
 					<img src="/images/speakers/c_airmet.jfif" alt="Chase Airmet">
 				</div>
@@ -25,7 +25,7 @@
 			</a>
 		</div>
 		<div class="w-1/2 md:w-1/3  flex flex-col items-center mb-12 ">
-			<a target="_blank" class="text-center flex flex-col items-center" href="somelink">
+			<a target="_blank" class="text-center flex flex-col items-center" href="https://www.linkedin.com/in/jessicagelzer/">
 				<div class="rounded-full border-4 border-black w-40 h-40 md:w-48 md:h-48 overflow-hidden">
 					<img src="/images/speakers/j_gelzer.jfif" alt="Jessica Gelzer">
 				</div>
@@ -34,7 +34,7 @@
 		</div>
 
 		<div class="w-1/2 md:w-1/3  flex flex-col items-center mb-12 ">
-			<a target="_blank" class="text-center flex flex-col items-center" href="somelink">
+			<a target="_blank" class="text-center flex flex-col items-center" href="https://www.linkedin.com/in/krystal-cooper-ba1445b8/">
 				<div class="rounded-full border-4 border-black w-40 h-40 md:w-48 md:h-48 overflow-hidden">
 					<img src="/images/speakers/k_cooper.jfif" alt="Krystal Cooper">
 				</div>
@@ -43,7 +43,7 @@
 		</div>
 
 		<div class="w-1/2 md:w-1/3  flex flex-col items-center mb-12 ">
-			<a target="_blank" class="text-center flex flex-col items-center" href="somelink">
+			<a target="_blank" class="text-center flex flex-col items-center" href="https://www.linkedin.com/in/lanceshields/">
 				<div class="rounded-full border-4 border-black w-40 h-40 md:w-48 md:h-48 overflow-hidden">
 					<img src="/images/speakers/l_shields.jfif" alt="Lance Shields">
 				</div>
@@ -52,7 +52,7 @@
 		</div>
 
 		<div class="w-1/2 md:w-1/3  flex flex-col items-center mb-12 ">
-			<a target="_blank" class="text-center flex flex-col items-center" href="somelink">
+			<a target="_blank" class="text-center flex flex-col items-center" href="https://www.linkedin.com/in/majentastrongheart/">
 				<div class="rounded-full border-4 border-black w-40 h-40 md:w-48 md:h-48 overflow-hidden">
 					<img src="/images/speakers/m_strongheart.jfif" alt="Majenta Strongheart">
 				</div>
@@ -61,7 +61,7 @@
 		</div>
 
 		<div class="w-1/2 md:w-1/3  flex flex-col items-center mb-12 ">
-			<a target="_blank" class="text-center flex flex-col items-center" href="somelink">
+			<a target="_blank" class="text-center flex flex-col items-center" href="https://www.linkedin.com/in/mike-e-82726856/">
 				<div class="rounded-full border-4 border-black w-40 h-40 md:w-48 md:h-48 overflow-hidden">
 					<img src="/images/speakers/m_estano.jfif" alt="Mike Estano">
 				</div>
@@ -70,7 +70,7 @@
 		</div>
 
 		<div class="w-1/2 md:w-1/3  flex flex-col items-center mb-12 ">
-			<a target="_blank" class="text-center flex flex-col items-center" href="somelink">
+			<a target="_blank" class="text-center flex flex-col items-center" href="https://www.linkedin.com/in/nmanaloto/">
 				<div class="rounded-full border-4 border-black w-40 h-40 md:w-48 md:h-48 overflow-hidden">
 					<img src="/images/speakers/n_manaloto.jfif" alt="Nardo Manaloto">
 				</div>
@@ -79,7 +79,7 @@
 		</div>
 
 		<div class="w-1/2 md:w-1/3  flex flex-col items-center mb-12 ">
-			<a target="_blank" class="text-center flex flex-col items-center" href="somelink">
+			<a target="_blank" class="text-center flex flex-col items-center" href="https://www.linkedin.com/in/robbie-nock-a370a14b/">
 				<div class="rounded-full border-4 border-black w-40 h-40 md:w-48 md:h-48 overflow-hidden">
 					<img src="/images/speakers/r_nock.jfif" alt="Robbie Nock">
 				</div>
@@ -88,7 +88,7 @@
 		</div>
 
 		<div class="w-1/2 md:w-1/3  flex flex-col items-center mb-12 ">
-			<a target="_blank" class="text-center flex flex-col items-center" href="somelink">
+			<a target="_blank" class="text-center flex flex-col items-center" href="https://www.linkedin.com/in/sofiamohammadkhan/">
 				<div class="rounded-full border-4 border-black w-40 h-40 md:w-48 md:h-48 overflow-hidden">
 					<img src="/images/speakers/skhan.jfif" alt="Sofia Mohammad Khan">
 				</div>
@@ -98,7 +98,7 @@
 
 
 		<div class="w-1/2 md:w-1/3  flex flex-col items-center mb-12 ">
-			<a target="_blank" class="text-center flex flex-col items-center" href="somelink">
+			<a target="_blank" class="text-center flex flex-col items-center" href="https://www.linkedin.com/in/stephanie-yanchinski-8154081/">
 				<div class="rounded-full border-4 border-black w-40 h-40 md:w-48 md:h-48 overflow-hidden">
 					<img src="/images/speakers/s_yanchinski.jfif" alt="Stephanie Yanchinski">
 				</div>
@@ -107,7 +107,7 @@
 		</div>
 
 		<div class="w-1/2 md:w-1/3  flex flex-col items-center mb-12 ">
-			<a target="_blank" class="text-center flex flex-col items-center" href="somelink">
+			<a target="_blank" class="text-center flex flex-col items-center" href="https://www.linkedin.com/in/taraxknight/">
 				<div class="rounded-full border-4 border-black w-40 h-40 md:w-48 md:h-48 overflow-hidden">
 					<img src="/images/speakers/tknight.png" alt="Tara Knight">
 				</div>
