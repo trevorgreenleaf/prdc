@@ -7,7 +7,7 @@
   </div>
 
 
-<h3 class="font-bold text-2xl mb-4 mt-12">Saturday, May 23rd, 2020</h3>
+<h3 class="font-bold text-2xl mb-4 mt-12">Saturday, May 23<sup>rd</sup> 2020</h3>
 <table class="table-auto text-left">
   <thead>
     <tr>
@@ -45,7 +45,7 @@
 
 
 
-<h3 class="font-bold text-2xl mb-4 mt-12">Sunday, May 23rd, 2020</h3>
+<h3 class="font-bold text-2xl mb-4 mt-12">Sunday, May 24<sup>th</sup> 2020</h3>
 <table class="table-auto text-left">
   <thead>
     <tr>
@@ -62,7 +62,7 @@
   </tbody>
 </table>
 
-<h3 class="font-bold text-2xl mb-4 mt-12">Monday, May 25th through Friday, May 29th</h3>
+<h3 class="font-bold text-2xl mb-4 mt-12">Monday, May 25<sup>th</sup> through Friday, May 29<sup>th</sup> 2020</h3>
 <table class="table-auto text-left">
   <thead>
     <tr>
@@ -84,7 +84,7 @@
   </tbody>
 </table>
 
-<h3 class="font-bold text-2xl mb-4 mt-12">Saturday, May 30, 2020</h3>
+<h3 class="font-bold text-2xl mb-4 mt-12">Saturday, May 30<sup>th</sup> 2020</h3>
 <p>All presentations need to be submitted immediately after your pitch to be judged.</p>
 <table class="table-auto text-left">
   <thead>
@@ -119,7 +119,7 @@
 <div class="mt-10 max-w-md mx-auto sm:flex sm:justify-center ">
           <div>
             <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSd6wwjmy4_TjjTXBVSgTOioUiVFoQHVqpY6nfR2rU-dd8a2Yg/viewform" class="w-full flex items-center justify-center px-8 py-3 text-base leading-6 font-bold rounded-full text-white bg-orange hover:bg-orange  md:py-4 md:text-lg md:px-10">
-              Sign up before noon on May 21st 
+              Sign up before noon on May 21<sup>st</sup>
             </a>
           </div>
         </div>

@@ -7,7 +7,7 @@
       <h2 class="font-bold text-5xl">FAQ</h2>
     </div>
 
-    <div class="pt-10 max-w-screen-md mx-auto">
+    <div class="pt-10 max-w-screen-md mx-auto px-4">
       <dl class="">
         <div>
           <div>

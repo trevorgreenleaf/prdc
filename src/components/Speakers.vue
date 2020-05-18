@@ -10,9 +10,9 @@
 		<div class="w-1/2 md:w-1/3  flex flex-col items-center mb-12 ">
 			<a target="_blank" class="text-center flex flex-col items-center" href="somelink">
 				<div class="rounded-full border-4 border-black w-40 h-40 md:w-48 md:h-48 overflow-hidden">
-					<img src="/images/speakers/default.png" alt="Adrian Ang">
+					<img src="/images/speakers/adrian_a.jpg" alt="Adrian Ang">
 				</div>
-				<p class="font-bold text-xl">Adrian Ang <span class=" text-sm block font-normal text-gray-500">Nurse, Cedars Sinai</span></p>
+				<p class="font-bold text-xl">Adrian Ang <span class=" text-sm block font-normal text-gray-500">Kidney and Liver Transplant Nurse, Cedar Sinai Medical Center</span></p>
 			</a>
 		</div>
 
