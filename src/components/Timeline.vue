@@ -18,12 +18,12 @@
   <tbody>
     <tr>
       <td class="border-b border-gray-300 py-2 w-1/2">Kick-off meeting</td>
-      <td class="border-b border-gray-300 py-2 w-1/2">10:00-10:30am</td>
+      <td class="border-b border-gray-300 py-2 w-1/2">10:00 am - 10:30 am</td>
     </tr>
     
     <tr>
       <td class="border-b border-gray-300 py-2 w-1/2">Lightning Talks</td>
-      <td class="border-b border-gray-300 py-2 w-1/2">10:30am – 12:40pm</td>
+      <td class="border-b border-gray-300 py-2 w-1/2">10:30 am – 12:40 pm</td>
     </tr>
 
      <tr>
@@ -33,12 +33,12 @@
 
      <tr>
       <td class="border-b border-gray-300 py-2 w-1/2">Q&A</td>
-      <td class="border-b border-gray-300 py-2 w-1/2">1:30 – 2:15pm</td>
+      <td class="border-b border-gray-300 py-2 w-1/2">1:30 pm – 2:15 pm</td>
     </tr>
 
      <tr>
       <td class="border-b border-gray-300 py-2 w-1/2">Adobe Workshop and Talk</td>
-      <td class="border-b border-gray-300 py-2 w-1/2">2:30 – 3:30pm</td>
+      <td class="border-b border-gray-300 py-2 w-1/2">2:30 pm – 3:30 pm</td>
     </tr>
   </tbody>
 </table>
@@ -56,7 +56,7 @@
   <tbody>
     <tr>
       <td class="border-b border-gray-300 py-2 w-1/2">Talks & Workshops</td>
-      <td class="border-b border-gray-300 py-2 w-1/2">10:00-12:30am</td>
+      <td class="border-b border-gray-300 py-2 w-1/2">10:00 am - 12:30 am</td>
     </tr>
    
   </tbody>
@@ -96,7 +96,7 @@
   <tbody>
     <tr>
       <td class="border-b border-gray-300 py-2 w-1/2">Student Present Pitches A - E</td>
-      <td class="border-b border-gray-300 py-2 w-1/2">11:00am – 12:30pm</td>
+      <td class="border-b border-gray-300 py-2 w-1/2">11:00 am – 12:30 pm</td>
     </tr>
 
     <tr>
@@ -106,12 +106,12 @@
 
     <tr>
       <td class="border-b border-gray-300 py-2 w-1/2">Students Present Pitches F-J</td>
-      <td class="border-b border-gray-300 py-2 w-1/2">1:20 – 2:30pm</td>
+      <td class="border-b border-gray-300 py-2 w-1/2">1:20 pm – 2:30 pm</td>
     </tr>
 
     <tr>
       <td class="border-b border-gray-300 py-2 w-1/2">Closing Ceremony (Winners announced)</td>
-      <td class="border-b border-gray-300 py-2 w-1/2">4:00 – 5:00pm</td>
+      <td class="border-b border-gray-300 py-2 w-1/2">4:00 pm</td>
     </tr>
    
   </tbody>
@@ -119,7 +119,7 @@
 <div class="mt-10 max-w-md mx-auto sm:flex sm:justify-center ">
           <div>
             <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSd6wwjmy4_TjjTXBVSgTOioUiVFoQHVqpY6nfR2rU-dd8a2Yg/viewform" class="w-full flex items-center justify-center px-8 py-3 text-base leading-6 font-bold rounded-full text-white bg-orange hover:bg-orange  md:py-4 md:text-lg md:px-10">
-              Sign up before May 21st 12:00
+              Sign up before noon on May 21st 
             </a>
           </div>
         </div>
