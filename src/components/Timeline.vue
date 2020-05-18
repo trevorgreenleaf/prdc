@@ -3,7 +3,7 @@
   
   <div class="text-center">
     <h2 class="font-bold text-5xl ">Schedule</h2>
-    <p class="">All times listed in PDT.</p>
+    <p class="mb-8 text-orange">All times listed in PDT.</p>
   </div>
 
 
