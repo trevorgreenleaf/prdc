@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="mx-auto px-4 text-center">
-        <img class=" md:-mt-12 pointer-events-none max-w-screen-md" src="/images/hero-bg.png" alt="Image of students working">
+        <img class="md:-mt-12 pointer-events-none max-w-screen-md mx-auto" src="/images/hero-bg.png" alt="Image of students working">
         <p class="font-bold text-orange text-2xl md:-mt-24">May 23-30, 2020 </p>
         <h1 class=" text-4xl sm:text-5xl md:text-6xl tracking-tight font-bold text-black leading-none ">
           Pandemic Response <br> <span class="text-black">Design Challenge</span>
