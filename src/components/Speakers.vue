@@ -17,6 +17,15 @@
 		</div>
 
 		<div class="w-1/2 md:w-1/3  flex flex-col items-center mb-12 ">
+			<a target="_blank" class="text-center flex flex-col items-center" href="https://www.linkedin.com/in/alicia-blanton-fessenden-a413331/">
+				<div class="rounded-full border-4 border-black w-40 h-40 md:w-48 md:h-48 overflow-hidden">
+					<img src="/images/speakers/a_blanton.jfif" alt="Alicia Blanton">
+				</div>
+				<p class="font-bold text-xl">Alicia Blanton <span class=" text-sm block font-normal text-gray-500">Operations Leader, Miso Robotics</span></p>
+			</a>
+		</div>
+
+		<div class="w-1/2 md:w-1/3  flex flex-col items-center mb-12 ">
 			<a target="_blank" class="text-center flex flex-col items-center" href="https://www.linkedin.com/in/chase-airmet/">
 				<div class="rounded-full border-4 border-black w-40 h-40 md:w-48 md:h-48 overflow-hidden">
 					<img src="/images/speakers/c_airmet.jfif" alt="Chase Airmet">
@@ -30,6 +39,15 @@
 					<img src="/images/speakers/j_gelzer.jfif" alt="Jessica Gelzer">
 				</div>
 				<p class="font-bold text-xl">Jessica Gelzer <span class=" text-sm block font-normal text-gray-500">Strategy and Marketing Consultant, Digital Healthcare Technology</span></p>
+			</a>
+		</div>
+
+		<div class="w-1/2 md:w-1/3  flex flex-col items-center mb-12 ">
+			<a target="_blank" class="text-center flex flex-col items-center" href="https://www.linkedin.com/in/kenstclair/">
+				<div class="rounded-full border-4 border-black w-40 h-40 md:w-48 md:h-48 overflow-hidden">
+					<img src="/images/speakers/k_clair.jfif" alt="Ken St. Clair">
+				</div>
+				<p class="font-bold text-xl">Ken St. Clair <span class=" text-sm block font-normal text-gray-500">Product Management Leader, Miso Robotics</span></p>
 			</a>
 		</div>
 
@@ -51,14 +69,14 @@
 			</a>
 		</div>
 
-		<div class="w-1/2 md:w-1/3  flex flex-col items-center mb-12 ">
+		<!-- <div class="w-1/2 md:w-1/3  flex flex-col items-center mb-12 ">
 			<a target="_blank" class="text-center flex flex-col items-center" href="https://www.linkedin.com/in/majentastrongheart/">
 				<div class="rounded-full border-4 border-black w-40 h-40 md:w-48 md:h-48 overflow-hidden">
 					<img src="/images/speakers/m_strongheart.jfif" alt="Majenta Strongheart">
 				</div>
 				<p class="font-bold text-xl">Majenta Strongheart <span class=" text-sm block font-normal text-gray-500">Head of Design and Partnerships, DesignLab at Supplyframe</span></p>
 			</a>
-		</div>
+		</div>-->
 
 		<div class="w-1/2 md:w-1/3  flex flex-col items-center mb-12 ">
 			<a target="_blank" class="text-center flex flex-col items-center" href="https://www.linkedin.com/in/mike-e-82726856/">
@@ -84,6 +102,24 @@
 					<img src="/images/speakers/r_nock.jfif" alt="Robbie Nock">
 				</div>
 				<p class="font-bold text-xl">Robbie Nock <span class=" text-sm block font-normal text-gray-500">Design, Innovation & Creative Leadership, ArtCenter</span></p>
+			</a>
+		</div>
+
+		<div class="w-1/2 md:w-1/3  flex flex-col items-center mb-12 ">
+			<a target="_blank" class="text-center flex flex-col items-center" href="https://www.linkedin.com/in/ryansinnet/">
+				<div class="rounded-full border-4 border-black w-40 h-40 md:w-48 md:h-48 overflow-hidden">
+					<img src="/images/speakers/r_sinnet.jfif" alt="Ryan Sinnet">
+				</div>
+				<p class="font-bold text-xl">Ryan Sinnet <span class=" text-sm block font-normal text-gray-500">CTO/Co-Founder, Miso Robotics</span></p>
+			</a>
+		</div>
+
+		<div class="w-1/2 md:w-1/3  flex flex-col items-center mb-12 ">
+			<a target="_blank" class="text-center flex flex-col items-center" href="https://www.linkedin.com/in/sabrinafonseca/">
+				<div class="rounded-full border-4 border-black w-40 h-40 md:w-48 md:h-48 overflow-hidden">
+					<img src="/images/speakers/s_fonseca.jfif" alt="Sabrina Fonseca">
+				</div>
+				<p class="font-bold text-xl">Sabrina Fonseca<span class=" text-sm block font-normal text-gray-500">Principle Design, PRTNRS</span></p>
 			</a>
 		</div>
 

@@ -75,10 +75,13 @@
       <td class="border-b border-gray-300 py-2 w-1/2">Evening workshops (coming soon)</td>
       <td class="border-b border-gray-300 py-2 w-1/2">TBA</td>
     </tr>
-
+    <tr>
+      <td class="border-b border-gray-300 py-2 w-1/2">Health workshop - Chase and Jessica</td>
+      <td class="border-b border-gray-300 py-2 w-1/2">Wednesday, 5:30 pm - 6:30 pm</td>
+    </tr>
     <tr>
       <td class="border-b border-gray-300 py-2 w-1/2">Pitch Workshop</td>
-      <td class="border-b border-gray-300 py-2 w-1/2">Friday Night Time TBA</td>
+      <td class="border-b border-gray-300 py-2 w-1/2">Friday, TBA</td>
     </tr>
    
   </tbody>
