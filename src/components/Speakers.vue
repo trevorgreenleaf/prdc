@@ -65,7 +65,7 @@
 				<div class="rounded-full border-4 border-black w-40 h-40 md:w-48 md:h-48 overflow-hidden">
 					<img src="/images/speakers/l_shields.jfif" alt="Lance Shields">
 				</div>
-				<p class="font-bold text-xl">Lance Shields <span class=" text-sm block font-normal text-gray-500">Director of International Design, Adobe</span></p>
+				<p class="font-bold text-xl">Lance Shields <span class=" text-sm block font-normal text-gray-500">Director of Intl. Design, Adobe</span></p>
 			</a>
 		</div>
 
@@ -83,7 +83,8 @@
 				<div class="rounded-full border-4 border-black w-40 h-40 md:w-48 md:h-48 overflow-hidden">
 					<img src="/images/speakers/m_estano.jfif" alt="Mike Estano">
 				</div>
-				<p class="font-bold text-xl">Mike Estano <span class=" text-sm block font-normal text-gray-500">UX Strategy/Creative Director, UNICEF Kid Power</span></p>
+				<p class="font-bold text-xl">Mike Estano <span class=" text-sm block font-normal text-gray-500">UX Strategy/Creative Director, 
+				UNICEF Kid Power</span></p>
 			</a>
 		</div>
 
