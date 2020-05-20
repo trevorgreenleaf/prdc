@@ -108,7 +108,7 @@
     </tr>
 
     <tr>
-      <td class="border-b border-gray-300 py-2 w-1/2">Students Present Pitches F-J</td>
+      <td class="border-b border-gray-300 py-2 w-1/2">Students Present Pitches F - J</td>
       <td class="border-b border-gray-300 py-2 w-1/2">1:20 pm – 2:30 pm</td>
     </tr>
 
