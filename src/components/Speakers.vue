@@ -21,7 +21,7 @@
 				<div class="rounded-full border-4 border-black w-40 h-40 md:w-48 md:h-48 overflow-hidden">
 					<img src="/images/speakers/a_blanton.jfif" alt="Alicia Blanton">
 				</div>
-				<p class="font-bold text-xl">Alicia Blanton <span class=" text-sm block font-normal text-gray-500">Operations Leader, Miso Robotics</span></p>
+				<p class="font-bold text-xl">Alicia Blanton <span class=" text-sm block font-normal text-gray-500">Director of Operations, Miso Robotics</span></p>
 			</a>
 		</div>
 
@@ -47,7 +47,7 @@
 				<div class="rounded-full border-4 border-black w-40 h-40 md:w-48 md:h-48 overflow-hidden">
 					<img src="/images/speakers/k_clair.jfif" alt="Ken St. Clair">
 				</div>
-				<p class="font-bold text-xl">Ken St. Clair <span class=" text-sm block font-normal text-gray-500">Product Management Leader, Miso Robotics</span></p>
+				<p class="font-bold text-xl">Ken St. Clair <span class=" text-sm block font-normal text-gray-500">Head of Product, Miso Robotics</span></p>
 			</a>
 		</div>
 
@@ -110,7 +110,7 @@
 				<div class="rounded-full border-4 border-black w-40 h-40 md:w-48 md:h-48 overflow-hidden">
 					<img src="/images/speakers/r_sinnet.jfif" alt="Ryan Sinnet">
 				</div>
-				<p class="font-bold text-xl">Ryan Sinnet <span class=" text-sm block font-normal text-gray-500">CTO/Co-Founder, Miso Robotics</span></p>
+				<p class="font-bold text-xl">Ryan Sinnet <span class=" text-sm block font-normal text-gray-500">Chief Technology Officer, Miso Robotics</span></p>
 			</a>
 		</div>
 
