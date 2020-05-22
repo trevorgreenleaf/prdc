@@ -69,14 +69,14 @@
 			</a>
 		</div>
 
-		<!-- <div class="w-1/2 md:w-1/3  flex flex-col items-center mb-12 ">
+		<div class="w-1/2 md:w-1/3  flex flex-col items-center mb-12 ">
 			<a target="_blank" class="text-center flex flex-col items-center" href="https://www.linkedin.com/in/majentastrongheart/">
 				<div class="rounded-full border-4 border-black w-40 h-40 md:w-48 md:h-48 overflow-hidden">
 					<img src="/images/speakers/m_strongheart.jfif" alt="Majenta Strongheart">
 				</div>
 				<p class="font-bold text-xl">Majenta Strongheart <span class=" text-sm block font-normal text-gray-500">Head of Design and Partnerships, DesignLab at Supplyframe</span></p>
 			</a>
-		</div>-->
+		</div>
 
 		<div class="w-1/2 md:w-1/3  flex flex-col items-center mb-12 ">
 			<a target="_blank" class="text-center flex flex-col items-center" href="https://www.linkedin.com/in/mike-e-82726856/">
@@ -94,6 +94,15 @@
 					<img src="/images/speakers/n_manaloto.jfif" alt="Nardo Manaloto">
 				</div>
 				<p class="font-bold text-xl">Nardo Manaloto <span class=" text-sm block font-normal text-gray-500">CEO, Catalaize</span></p>
+			</a>
+		</div>
+
+		<div class="w-1/2 md:w-1/3  flex flex-col items-center mb-12 ">
+			<a target="_blank" class="text-center flex flex-col items-center" href="https://www.linkedin.com/in/pauldorian/">
+				<div class="rounded-full border-4 border-black w-40 h-40 md:w-48 md:h-48 overflow-hidden">
+					<img src="/images/speakers/p_dorian.png" alt="Paul Dorian">
+				</div>
+				<p class="font-bold text-xl">Paul Dorian<span class=" text-sm block font-normal text-gray-500">Product Design Lead, Adobe</span></p>
 			</a>
 		</div>
 
