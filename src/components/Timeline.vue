@@ -55,8 +55,8 @@
   </thead>
   <tbody>
     <tr>
-      <td class="border-b border-gray-300 py-2 w-1/2">Talks & Workshops</td>
-      <td class="border-b border-gray-300 py-2 w-1/2">10:00 am - 12:30 am</td>
+      <td class="border-b border-gray-300 py-2 w-1/2">Pitch Workshop</td>
+      <td class="border-b border-gray-300 py-2 w-1/2">10:30 am - 11:30 am</td>
     </tr>
    
   </tbody>
@@ -72,16 +72,20 @@
   </thead>
   <tbody>
     <tr>
-      <td class="border-b border-gray-300 py-2 w-1/2">Evening workshops (coming soon)</td>
-      <td class="border-b border-gray-300 py-2 w-1/2">TBA</td>
+      <td class="border-b border-gray-300 py-2 w-1/2">Future of Technology Workshop - Leo and Ryan</td>
+      <td class="border-b border-gray-300 py-2 w-1/2">Tuesday 4:00 pm - 5:00 pm</td>
     </tr>
     <tr>
       <td class="border-b border-gray-300 py-2 w-1/2">Health workshop - Chase and Jessica</td>
-      <td class="border-b border-gray-300 py-2 w-1/2">Wednesday, 5:30 pm - 6:30 pm</td>
+      <td class="border-b border-gray-300 py-2 w-1/2">Wednesday TBA</td>
+    </tr>
+      <tr>
+      <td class="border-b border-gray-300 py-2 w-1/2">Educational Workshop - Alicia and Sofia</td>
+      <td class="border-b border-gray-300 py-2 w-1/2">Thursday 3:00 pm - 4:00 pm</td>
     </tr>
     <tr>
-      <td class="border-b border-gray-300 py-2 w-1/2">Pitch Workshop</td>
-      <td class="border-b border-gray-300 py-2 w-1/2">Friday, TBA</td>
+      <td class="border-b border-gray-300 py-2 w-1/2">Pitch Workshop - Robbie</td>
+      <td class="border-b border-gray-300 py-2 w-1/2">Friday 5:00 pm - 6:00 pm</td>
     </tr>
    
   </tbody>
