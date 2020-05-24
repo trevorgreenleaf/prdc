@@ -37,7 +37,7 @@
     </tr>
 
      <tr>
-      <td class="border-b border-gray-300 py-2 w-1/2">Adobe Workshop and Talk</td>
+      <td class="border-b border-gray-300 py-2 w-1/2">Adobe Workshop & Talk</td>
       <td class="border-b border-gray-300 py-2 w-1/2">2:30 pm – 3:30 pm</td>
     </tr>
   </tbody>
@@ -72,20 +72,20 @@
   </thead>
   <tbody>
     <tr>
-      <td class="border-b border-gray-300 py-2 w-1/2">Future of Technology Workshop - Leo and Ryan</td>
-      <td class="border-b border-gray-300 py-2 w-1/2">Tuesday 4:00 pm - 5:00 pm</td>
+      <td class="border-b border-gray-300 py-2 w-1/2">Future of Technology Workshop - Leo & Ryan</td>
+      <td class="border-b border-gray-300 py-2 w-1/2">Tuesday, 4:00 pm - 5:00 pm</td>
     </tr>
     <tr>
-      <td class="border-b border-gray-300 py-2 w-1/2">Health workshop - Chase and Jessica</td>
-      <td class="border-b border-gray-300 py-2 w-1/2">Wednesday TBA</td>
+      <td class="border-b border-gray-300 py-2 w-1/2">Health Workshop - Chase & Jessica</td>
+      <td class="border-b border-gray-300 py-2 w-1/2">Wednesday, TBA</td>
     </tr>
       <tr>
-      <td class="border-b border-gray-300 py-2 w-1/2">Educational Workshop - Alicia and Sofia</td>
-      <td class="border-b border-gray-300 py-2 w-1/2">Thursday 3:00 pm - 4:00 pm</td>
+      <td class="border-b border-gray-300 py-2 w-1/2">Educational Workshop - Alicia & Sofia</td>
+      <td class="border-b border-gray-300 py-2 w-1/2">Thursday, 3:00 pm - 4:00 pm</td>
     </tr>
     <tr>
       <td class="border-b border-gray-300 py-2 w-1/2">Pitch Workshop - Robbie</td>
-      <td class="border-b border-gray-300 py-2 w-1/2">Friday 5:00 pm - 6:00 pm</td>
+      <td class="border-b border-gray-300 py-2 w-1/2">Friday, 5:00 pm - 6:00 pm</td>
     </tr>
    
   </tbody>
@@ -123,13 +123,13 @@
    
   </tbody>
 </table>
-<div class="mt-10 max-w-md mx-auto sm:flex sm:justify-center ">
+<!-- <div class="mt-10 max-w-md mx-auto sm:flex sm:justify-center ">
           <div>
             <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSd6wwjmy4_TjjTXBVSgTOioUiVFoQHVqpY6nfR2rU-dd8a2Yg/viewform" class="w-full flex items-center justify-center px-8 py-3 text-base leading-6 font-bold rounded-full text-white bg-orange hover:bg-orange  md:py-4 md:text-lg md:px-10">
               Sign up before noon on May 21<sup>st</sup>
             </a>
           </div>
-        </div>
+        </div> -->
   
 
 
