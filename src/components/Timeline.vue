@@ -77,7 +77,7 @@
     </tr>
     <tr>
       <td class="border-b border-gray-300 py-2 w-1/2">Health Workshop - Chase & Jessica</td>
-      <td class="border-b border-gray-300 py-2 w-1/2">Wednesday, TBA</td>
+      <td class="border-b border-gray-300 py-2 w-1/2">Wednesday, 5:00 pm - 6:00 pm</td>
     </tr>
       <tr>
       <td class="border-b border-gray-300 py-2 w-1/2">Educational Workshop - Alicia & Sofia</td>
